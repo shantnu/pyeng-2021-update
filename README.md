@@ -22,7 +22,7 @@ All my books for free, including any updated versions. Plus your name in the tha
 
 In 2017, the last time I asked for help, I found a 100 people were interested, but 80% didnt even complete the basic step of creating a github account, and of the remaining, 10-15% vanished in a few days. 
 
-So this time, I'm looking only people who can stick with me for the whole journey -- Im talking about 1-3 hours a week for the next 4-5 weeks-- you can do it in the evenings/weekend. Only basic knowledge of Python is needed.
+So this time, I'm looking only people who can stick with me for the whole journey -- Im talking about 2-3 hours a week for the next 4-5 weeks-- you can do it in the evenings/weekend. Only basic knowledge of Python is needed.
 
 # To start
 
