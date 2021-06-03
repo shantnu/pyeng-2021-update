@@ -7,8 +7,8 @@ I got so many messages asking me to bring back the books, I've decided to update
 But the task is huge, so Im asking for help.
 
 ## What's needed
-09)
-I need someone to go over my books/articles, run them, and check the code still works. I have been updating Python for Engineers(the book, and found that 90% of the code works, but a few libraries have changed, and so the code needed updating.
+
+I need someone to go over my books/articles, run them, and check the code still works. I have been updating Python for Engineers(the book), and found that 90% of the code works, but a few libraries have changed, and so the code needed updating.
 
 You dont need to fix the code, just tell me what is failing.
 
@@ -20,11 +20,9 @@ All my books for free, including any updated versions. Plus your name in the tha
 
 ## Some lessons learnt
 
-In 2017, the last time I asked for help, I found a 100 people were interested, but 80% didnt even complete the basic step of creating a github account, and of the remaining, 10-15% vanished in a few days.
+In 2017, the last time I asked for help, I found a 100 people were interested, but 80% didnt even complete the basic step of creating a github account, and of the remaining, 10-15% vanished in a few days. 
 
-If you want your name and link to your blog in the Thanks section, you need to stick with it.
-
-Im talking about 1-3 hours a week for the next 4-5 weeks-- you can do it in the evenings/weekend. Only basic knowledge of Python is needed.
+So this time, I'm looking only people who can stick with me for the whole journey -- Im talking about 1-3 hours a week for the next 4-5 weeks-- you can do it in the evenings/weekend. Only basic knowledge of Python is needed.
 
 # To start
 
